@@ -25,7 +25,7 @@ Mobile Design
 
 # Links
 
-- Repository Url - [Repo Url]()
+- Repository Url - [Repo Url](https://github.com/shees360/blog-card-preview.git)
 - Live Url - [Live Url](https://shees360.github.io/blog-card-preview/)
 
 # Built with
@@ -38,3 +38,4 @@ Mobile Design
 - Name: shees
 
 - Frontend-Mentor: [@shees360](https://www.frontendmentor.io/profile/shees360)
+
